@@ -1,0 +1,4 @@
+Python and C are popular programming languages.
+Both languages are used for software development.
+Learning programming improves problem solving skills.
+Developers use C for embedded systems and high performance applications.
